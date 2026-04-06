@@ -1,4 +1,4 @@
-# James Store Sales & Customer Analysis
+# James Superstore Sales & Customer Insights 
 
 ## Objective
 Analyze sales and customer data to provide actionable insights for revenue growth, customer satisfaction, and order optimization.
