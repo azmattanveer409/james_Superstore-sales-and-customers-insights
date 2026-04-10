@@ -1,5 +1,4 @@
-# 📊 James Superstore Sales & Customer Insights (Excel + Python + Power BI | EDA & BI Project)
-
+# 📊 Superstore Sales & Customer Insights (Excel | Python | Power BI | EDA | BI)
 ---
 
 ## 🚀 Overview
