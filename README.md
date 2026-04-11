@@ -114,9 +114,7 @@ This dashboard provides a complete overview of sales performance, including offl
 📊 Offline channels contribute the majority of revenue (~66%), indicating strong dependence on physical store performance. However, profitability per order is lower compared to online channels, suggesting scope for margin optimization in offline operations.
 
 📸 **Offline Sales Dashboard Screenshot**
-![Offline Sales Dashboard]([PASTE_OFFLINE_IMAGE_LINK_HERE](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/ffb3120cc03da23b980e7e9596d633863df167cd/Offline_Dashboard.png)
-
----
+![Offline Sales Dashboard](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/83e358559b27585bd054442fa9aade5f2284a530/Offline_Dashboard.png)
 
 ## 🌐 Online Sales Analysis
 
