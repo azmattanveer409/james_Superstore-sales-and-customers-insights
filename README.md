@@ -100,7 +100,7 @@ This dashboard provides a complete overview of sales performance, including offl
 📊 The overall performance shows strong revenue generation (24M) with a stable profit margin (~22.7%), however the relatively high return rate (4.95K orders) indicates operational inefficiencies and potential customer dissatisfaction that needs attention.
 
 📸 **Overall Dashboard Screenshot**
-![Overall Dashboard]([PASTE_OVERALL_IMAGE_LINK_HERE](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/c535272b6a3022ca4bbfb38730ab2562acbc2690/Overall%20Dashboard%20Screenshot.png))
+![Overall Dashboard]([PASTE_OVERALL_IMAGE_LINK_HERE](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/c535272b6a3022ca4bbfb38730ab2562acbc2690/Overall%20Dashboard%20Screenshot.png)
 
 ---
 
@@ -114,7 +114,7 @@ This dashboard provides a complete overview of sales performance, including offl
 📊 Offline channels contribute the majority of revenue (~66%), indicating strong dependence on physical store performance. However, profitability per order is lower compared to online channels, suggesting scope for margin optimization in offline operations.
 
 📸 **Offline Sales Dashboard Screenshot**
-![Offline Sales Dashboard](PASTE_OFFLINE_IMAGE_LINK_HERE)
+![Offline Sales Dashboard]([PASTE_OFFLINE_IMAGE_LINK_HERE](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/ffb3120cc03da23b980e7e9596d633863df167cd/Offline_Dashboard.png)
 
 ---
 
