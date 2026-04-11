@@ -124,7 +124,7 @@ This dashboard provides a complete overview of sales performance, including offl
 📊 Online sales represent a smaller but more efficient revenue stream, with better profit-to-sales efficiency compared to offline channels. This indicates stronger customer targeting and lower operational costs in digital channels.
 
 📸 **Online Sales Dashboard Screenshot**
-![Online Sales Dashboard](PASTE_ONLINE_IMAGE_LINK_HERE)
+![Online Sales Dashboard](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights/blob/37c2052313e276398e7c39e0ed4b697398e589d2/Online%20Dashboard.png)
 
 ---
 
