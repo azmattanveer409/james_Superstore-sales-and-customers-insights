@@ -76,50 +76,78 @@ Key business metrics analyzed:
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard Preview
+
+This dashboard provides a complete overview of sales performance, including offline and online sales analysis.
+
+---
 
 ### 📌 Dashboard Title
-
 **Superstore Sales & Customer Insights Dashboard**
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Overall Dashboard (Business Overview)
 
-(Add your screenshot here)
+### 📈 Key KPIs (Overall Performance)
+- Total Sales: **24M**
+- Total Profit: **6M**
+- Profit Margin: **22.69%**
+- Total Orders: **10k**
+- Return Orders: **4.95K**
+- Average Rating: **2.99**
 
-```md
-![Dashboard Screenshot](dashboard.png)
-```
+📊 The overall performance shows strong revenue generation (24M) with a stable profit margin (~22.7%), however the relatively high return rate (4.95K orders) indicates operational inefficiencies and potential customer dissatisfaction that needs attention.
 
----
-
-### 📈 Key KPIs
-
-* Total Sales: **16M**
-* Total Profit: **4M**
-* Profit Margin: **22.43%**
-* Total Orders: **6,870**
-* Return Orders: **3.39K**
-* Average Rating: **2.99**
+📸 **Overall Dashboard Screenshot**
+![Overall Dashboard](PASTE_OVERALL_IMAGE_LINK_HERE)
 
 ---
 
-### 🎛️ Slicers
+## 🏬 Offline Sales Analysis
 
-* Region: East, North, South, West
-* Segment: Offline, Online
+### 📈 Key KPIs (Offline Sales)
+- Offline Sales: **16M**
+- Offline Profit: **4M**
+- Offline Orders: **6,870**
+
+📊 Offline channels contribute the majority of revenue (~66%), indicating strong dependence on physical store performance. However, profitability per order is lower compared to online channels, suggesting scope for margin optimization in offline operations.
+
+📸 **Offline Sales Dashboard Screenshot**
+![Offline Sales Dashboard](PASTE_OFFLINE_IMAGE_LINK_HERE)
 
 ---
 
-### 📊 Visualizations
+## 🌐 Online Sales Analysis
 
-* Monthly Sales Trend (declining in last months)
-* Sales by Category
-* Top 10 Product Categories
-* Order Status Distribution
-* City-wise Sales Performance
-* Yearly Sales Trend
+### 📈 Key KPIs (Online Sales)
+- Online Sales: **7M**
+- Online Profit: **2M**
+- Online Orders: **3,130**
+
+📊 Online sales represent a smaller but more efficient revenue stream, with better profit-to-sales efficiency compared to offline channels. This indicates stronger customer targeting and lower operational costs in digital channels.
+
+📸 **Online Sales Dashboard Screenshot**
+![Online Sales Dashboard](PASTE_ONLINE_IMAGE_LINK_HERE)
+
+---
+
+## 🎛️ Slicers
+
+- Region: East, North, South, West  
+- Segment: Offline, Online  
+
+---
+
+## 📊 Visualizations
+
+- Monthly Sales Trend (declining in last months)  
+- Sales by Category
+- Coutomer Complaint Rate
+- Top 10 Product Categories  
+- Order Status Distribution  
+- Yearly City-wise Sales Performance  
+- order Stutas  
 
 ---
 
@@ -173,14 +201,13 @@ Key business metrics analyzed:
 * Data-driven business decisions
 
 ---
-
 ## 🚀 Future Improvements
 
-* Predictive sales forecasting model
-* Customer segmentation (RFM analysis)
-* Churn prediction model
-* Automated dashboard updates
-* Advanced sentiment analysis on feedback
+- Develop predictive sales forecasting models to improve demand planning and inventory management  
+- Implement customer segmentation (RFM analysis) to better understand high-value customer groups  
+- Automate dashboard updates using Power BI Service for real-time reporting  
+- Enhance pricing strategy using advanced anomaly detection techniques  
+- Expand analysis with customer feedback and rating trends for experience optimization  
 
 ---
 
