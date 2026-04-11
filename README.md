@@ -138,12 +138,12 @@ This dashboard provides a complete overview of sales performance, including offl
 ## 📊 Visualizations
 
 - Monthly Sales Trend (declining in last months)  
-- Sales by Category
-- Coutomer Complaint Rate
+- Sales by Category  
+- Customer Complaint Rate  
 - Top 10 Product Categories  
 - Order Status Distribution  
-- Yearly City-wise Sales Performance  
-- order Stutas  
+- City-wise Sales Performance  
+  
 
 ---
 
@@ -208,6 +208,5 @@ This dashboard provides a complete overview of sales performance, including offl
 ---
 
 ## 📌 Conclusion
-
-This project demonstrates a complete **data analytics pipeline from raw retail data to business insights**, combining Excel, Python, and Power BI to improve sales performance, customer satisfaction, and operational efficiency.
+This project demonstrates a complete **end-to-end data analytics pipeline, transforming raw retail data into actionable business insights** using Excel, Python, and Power BI.
 
